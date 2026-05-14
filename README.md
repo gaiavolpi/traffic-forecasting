@@ -1,7 +1,6 @@
 # Forecasting mobile network traffic
 
 This repository contains the implementation of a ML pipeline to forecast mobile network traffic in the city of Milan. 
-The project was developed as part of the selection process for a doctoral position at IMDEA Networks Institute.
 
 ## Project Structure
 
